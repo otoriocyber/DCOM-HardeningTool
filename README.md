@@ -1,7 +1,7 @@
 # DCOM Hardening Toolkit
 Version 1.0
 ## Overview
-This is a Powershell script for Windows to display retrieve the authentication hardening status of DCOM applications.
+This is a Powershell script for Windows to retrieve the authentication hardening status of DCOM applications.
 
 The script lists weak DCOM authentication applications installed on the workstation, and provides functionality to increase their security level as well.
 
